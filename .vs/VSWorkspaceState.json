@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Test_Programme",
+    "\\Übungen",
+    "\\Übungen\\C.1.12.2_Klasse_Datum",
+    "\\Übungen\\C.4.12.1_Klasse_Auto"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\Übungen\\C.1.12.2_Klasse_Datum\\Klasse_Datum.cpp",
   "PreviewInSolutionExplorer": false
 }

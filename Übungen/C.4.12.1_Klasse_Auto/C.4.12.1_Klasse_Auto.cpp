@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Auto_Headder.h"
+#include "AutoLibary.cpp"
 #include<Windows.h>
+
 
 using namespace std;
 Auto mini{ 4, "schwarz", 69, 4, 6.8, 30, 30 };

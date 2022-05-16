@@ -1,4 +1,5 @@
-#include "playlist.h"
+#include "Playlist.h"
+#include "Playlist.cpp"
 #include<conio.h>
 #include <windows.h> 
 

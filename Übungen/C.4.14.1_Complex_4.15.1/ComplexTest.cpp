@@ -24,7 +24,7 @@ int main()
 		cout << "z1 - z2: " << Z; 
 		//Divisionstest
 		Z = z1 / z3;
-		cout << "z1 / z3:" << Z; << endl;
+		cout << "z1 / z3:" << Z << endl;
 		//invalid test
 		z3.setRe(0);
 		z3.setIm(0);
@@ -33,6 +33,7 @@ int main()
 	}
 	catch (invalid_argument &ex)
 	{
+		cout << "z1  / z3 wobei z3 = 0" << endl;
 		cout << ex.what() << endl;
 	}
 	system("pause");

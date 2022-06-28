@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Test_Programme",
+    "\\Test_Programme\\Hausaufgaben",
     "\\Test_Programme\\Klasse Auto text",
     "\\Übungen",
-    "\\Übungen\\C.1.12.3_Klasse_Playlist",
-    "\\Übungen\\C.14.13.1_Transportmittel"
+    "\\Übungen\\BS_Praktikum1",
+    "\\Übungen\\Hausaufgaben"
   ],
-  "SelectedNode": "\\Übungen\\C.1.12.3_Klasse_Playlist\\Playlist.cpp",
+  "SelectedNode": "\\Übungen\\BS_Praktikum1\\Aufgabe1_Prozessorkerne.cpp",
   "PreviewInSolutionExplorer": false
 }

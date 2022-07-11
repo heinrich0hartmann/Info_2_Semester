@@ -40,3 +40,5 @@ int main()
 
 	return 0;
 }
+
+// Ist halt ein unnötiges Programm um zu sehen wie das BS durchgehend die Threads wechselt um sie zu bearbeiten.

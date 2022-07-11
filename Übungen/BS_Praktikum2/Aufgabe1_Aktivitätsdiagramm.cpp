@@ -3,11 +3,12 @@
 
 using namespace std;
 
+// Zahl zwischen 1 und 100 abfragen.
 void t1_funktion(int n)
 {
 	while (n < 100)
 	{
-		cout << n << endl;
+		cout << n << endl; // Zählschleife
 		n++;
 	}
 	return;

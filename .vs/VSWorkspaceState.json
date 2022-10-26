@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Test_Programme",
-    "\\Test_Programme\\Hausaufgaben",
-    "\\Test_Programme\\Klasse Auto text",
     "\\Übungen",
     "\\Übungen\\BS_Praktikum1",
+    "\\Übungen\\BS_Praktikum2",
+    "\\Übungen\\C.1.12.3_Klasse_Playlist",
+    "\\Übungen\\C.14.13.1_Transportmittel",
+    "\\Übungen\\C.4.12.1_Klasse_Auto",
+    "\\Übungen\\C.4.12.2_Klasse_Datum",
+    "\\Übungen\\C.4.14.1_Complex_4.15.1",
     "\\Übungen\\Hausaufgaben"
   ],
-  "SelectedNode": "\\Übungen\\BS_Praktikum1\\Aufgabe5_SchnelleThreads.cpp",
+  "SelectedNode": "\\Übungen\\Hausaufgaben\\maskchar.cpp",
   "PreviewInSolutionExplorer": false
 }
